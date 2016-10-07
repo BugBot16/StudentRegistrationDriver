@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.github.sineadmcd</groupId>
             <artifactId>StudentRegistrationSystem</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>version1</version>
             <type>jar</type>
         </dependency>
     </dependencies>
